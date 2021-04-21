@@ -18,7 +18,7 @@ public class Logitech extends Mouse{
 	}
 	
 	 public int getBatteryLife() {
-	    return batteryLife;
+	        return batteryLife;
 	 }
 	  
 	 public double getPayment() {
