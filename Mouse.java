@@ -42,7 +42,7 @@ public class Mouse {
 		weight = w;
 		price = p;
 		quantity = q;
-   }
+         }
 	
 	 // Create Getter Method
 	  public String getModel() {
