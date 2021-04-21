@@ -11,7 +11,7 @@ public class Logitech extends Mouse{
 		wireless = wl;
 		batteryLife = l;
 		payment = py;
-		}
+	}
 	
 	public String getWireless() {
 		return wireless;
