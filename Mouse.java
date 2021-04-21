@@ -74,8 +74,8 @@ public class Mouse {
 	  }
 	  
 	  public double calDiscount() {
-			return calTotalPrice() - calTotalPrice() * 0.12;
-		}
+		return calTotalPrice() - calTotalPrice() * 0.12;
+	  }
 	  
 	  public String toString() {
 		  return "\nModel\t: " + model + "\nColor\t: " +color +"\nBrand\t: " + brand +"\nWeight\t: "+ weight + "g"+ "\nPrice\t: RM " + price+" (per unit)"
